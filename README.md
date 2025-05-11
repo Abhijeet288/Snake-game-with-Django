@@ -1,1 +1,1 @@
-"# Snake_Game-with-Django" 
+"# Snake-game-with-Django" 
